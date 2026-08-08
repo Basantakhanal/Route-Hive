@@ -73,15 +73,13 @@ Route Hive follows a client-server architecture consisting of a React-based fron
 └──────────────────────────────┘
 
 # 🚀 Installation & Setup
-
-
 ---
 
 ## 1. Clone the Repository
 
 ```bash
 git clone <https://github.com/Basantakhanal/Route-Hive.git>
-cd Sentinel-AI
+cd Route-Hive
 ```
 
 ---
